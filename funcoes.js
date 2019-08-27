@@ -108,6 +108,6 @@ function exe7(){
         alert("Novo valor " + novo)
     }
     else {
-        alert("Não tem direito a aumento")
+        alert("Não tem direito a aumento, meus sentiementps")
     }
 }
